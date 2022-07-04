@@ -6,7 +6,7 @@ body {
 }
 
 section {
-    height: 500px;
+    height: 600px;
 }
 
 .top-banner {
@@ -39,6 +39,7 @@ section {
     font-size: 20px;
     color: #616161;
     margin-bottom: 50px;
+    text-align: justify;
 }
 
 .link-btn {
@@ -48,4 +49,21 @@ section {
     padding: 20px 40px;
     border-radius: 30px;
     text-decoration: none;
+}
+
+.about-person img {
+    padding-top: 40px;
+    height: 560px;
+}
+
+.about-section {
+    background-image: url(../images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.about-me {
+    padding-top: 100px;
+    font-size: 50px;
+    color: #707070;
 }
